@@ -2,6 +2,7 @@
 
 
   I'm a student and enthusiastic of computer science. </>
+  I consider myself a continous learner and self-tought pythonista, programmer is someone how solves a problem in a way that you "don't" undestand and it's funny to think about it. So, i'm so exesating to upgrade my skillset by developing and store code here.
   
   
   
