@@ -9,7 +9,6 @@
   
   You can find me on:
   
-  [![alt text][6.1]][6]
   
   
   
