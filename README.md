@@ -1,7 +1,14 @@
-# Hello 👋, Programmers
-# I am Matheus Dantas Ephebo)<em>
+# Hello 👋, Programmers<br>I am Matheus Dantas Ephebo)<em>
 
 
+  I'm a student and enthusiastic of computer science. </>
+  
+  
+  
+  
+  
+  
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
