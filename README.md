@@ -11,4 +11,4 @@
   
   https://twitter.com/efebocorrompido
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ephebo&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ephebo&show_icons=true&theme= tokyonight)
