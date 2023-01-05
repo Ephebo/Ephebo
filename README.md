@@ -12,4 +12,4 @@
   https://twitter.com/efebocorrompido
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ephebo&show_icons=true&theme=blue-green)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephebo&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ephebo&repo=100DaysOfCode)](https://github.com/anuraghazra/github-readme-stats)
