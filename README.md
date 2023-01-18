@@ -1,10 +1,9 @@
-# <div aling="center">👋  Hello, Programmers.<br>I am Matheus Dantas (Ephebo)<em>
-
-
+# 👋  Hello, Programmers.<br>I am Matheus Dantas (Ephebo)<em>
+  
   I'm a student and enthusiastic of computer science. </><br>
   
   I consider myself a pythonista beginner and continous learner , so i'm excited to upgrade my skillset by developing and storing code here.<br>
-    Programmer is someone who solves a problem you didn't know you had in a way you "don't" understand and it's funny to think about it.</div>
+    Programmer is someone who solves a problem you didn't know you had in a way you "don't" understand and it's funny to think about it.
   
   
 
