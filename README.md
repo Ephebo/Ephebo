@@ -12,8 +12,7 @@
   
  # <b><em><h3>#html #css #javaScript #python</em></b>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephebo)](https://github.com/Ephebo/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephebo&layout=compact)](https://github.com/Ephebo/github-readme-stats)
 
 </div>
   
