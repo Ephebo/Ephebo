@@ -7,8 +7,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ephebo&show_icons=true&theme=blue-green)
   
-  <h4>I consider myself a pythonista beginner and continous learner , so i'm excited to upgrade my skillset by developing and storing code here.<br>
-  Programmer is someone who solves a problem you didn't know you had in a way you "don't" understand and it's funny to think about it.</h4>
+  <h5>I consider myself a pythonista beginner and continous learner , so i'm excited to upgrade my skillset by developing and storing code here.<br>
+  Programmer is someone who solves a problem you didn't know you had in a way you "don't" understand and it's funny to think about it.</h5>
   
  # <b><em><h3>#html #css #javaScript #python</em></b>
   
