@@ -1,6 +1,6 @@
-# <div align="center">👋  Hello, Coders 👨‍💻.<br>I am Matheus Dantas (Ephebo)<em>
+# <div align="center">👋  Hello, Coders 👨‍💻.<br>I am Matheus Dantas (Ephebo)<em></div>
   
-<h4>🎓 I'm a student and enthusiastic of computer science 💻.</><br>
+<div align="center"><h4>🎓 I'm a student and enthusiastic of computer science 💻.</><br><br>
   <b><em>#html #css #javaScript #python</em></b></h4>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ephebo&show_icons=true&show_icons=true&theme=blue-green)
