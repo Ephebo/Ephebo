@@ -1,4 +1,4 @@
-# <div align="center">👋  Hello, Coders 👨‍💻.<br>I am Matheus Dantas (Ephebo)<em></div>
+# <div align="center">👋  Hello, Coders. 👨‍💻<br>I am Matheus Dantas (Ephebo)<em></div>
   
 <div align="center">
   
