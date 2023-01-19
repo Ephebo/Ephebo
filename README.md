@@ -1,4 +1,4 @@
-# 👋  Hello, Programmers.<br>I am Matheus Dantas (Ephebo)<em>
+# 👋  Hello, Coders.<br>I am Matheus Dantas (Ephebo)<em>
   
   <h4>I'm a student and enthusiastic of computer science.</></h4><br>
   
