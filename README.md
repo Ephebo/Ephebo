@@ -1,6 +1,6 @@
 # <div align="center">👋  Hello, Coders. 👨‍💻<br>I am Matheus Dantas (Ephebo)<em></div>
   
-<div align="center">
+<div align="center"> 
   
   <h3>🎓 I'm a student and enthusiastic of computer science 💻.</h3><br>
    <br>
