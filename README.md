@@ -10,7 +10,10 @@
   <b>I consider myself a pythonista beginner and continous learner , so i'm excited to upgrade my skillset by developing and storing code.<br>
   Programmer is someone who solves a problem you didn't know you had in a way you "don't" understand and it's funny to think about it.</b>
   
- # <b><em><h3>#html #css #javaScript #python</em></b>
+  
+  ![](https://github.com/github/linguist/blob/main/lib/linguist/languages/JavaScript.yml)
+
+
   
 </div>
   
