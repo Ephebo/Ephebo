@@ -2,7 +2,7 @@
   
 <div align="center"> 
   
-  <h3>🎓 I'm a student and enthusiastic of computer science 💻.</h3><br>
+  <h3>🎓 A student and enthusiastic of computer science 💻.</h3><br>
   
   <b>I consider myself a pythonista beginner, so i'm excited to upgrade my skillset by developing and storing code here.<br>
   Programmer is someone who solves a problem you didn't know you had in a way you "don't" understand and it's funny to think about it.</b>
