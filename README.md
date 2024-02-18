@@ -26,7 +26,7 @@
 </div>
 <picture />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura"
+    srcset="https://github-readme-stats.vercel.app/api?username=Ephebo&show_icons=true&theme=aura"
     media="(prefers-color-scheme: dark)"
   />
   <source
